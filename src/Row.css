@@ -30,3 +30,8 @@
 .row__posterLarge{
     max-height: 250px;
 }
+
+.movie__title{
+    text-align: center;
+    max-width: max-content;
+}
