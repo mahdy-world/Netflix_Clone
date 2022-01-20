@@ -27,6 +27,8 @@
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+    left: 0;
+    right: 0;
 }
 
 .loginScreen__body > h1{
@@ -52,7 +54,7 @@
     top: 20px;
     padding: 10px 20px;
     font-size: 1rem;
-    color: white;
+    color: white; 
     background-color: #e50914;
     font-weight: 600;
     border: none;
